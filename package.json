@@ -1,0 +1,12 @@
+{
+  "name": "bible.com-auto-mark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "vinibeloni",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {}
+}
