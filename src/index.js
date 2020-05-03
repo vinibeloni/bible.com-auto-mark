@@ -1,98 +1,66 @@
-const puppeteer = require('puppeteer')
-require('dotenv').config({path: __dirname + '/../.env'})
+require('dotenv').config({ path: __dirname + '../.env' })
+const program = require('commander')
+const { prompt, registerPrompt } = require('inquirer')
+const books = require('../books.json')
 
-const NVI = 129
+registerPrompt('search-list', require('inquirer-search-list'));
 
-const url = (version, book, chapter) => `https://www.bible.com/pt/bible/${version}/${book}.${chapter}`;
+program
+    .version('0.0.1')
+    .description('bible.com auto mark')
 
-const verses = [
-    {
-        version: NVI,
-        book: "rom",
-        chapter: 10,
-        verse: 1,
-        tags: ['b']
-    },
-    {
-        version: NVI,
-        book: "deu",
-        chapter: 7,
-        verse: 2,
-        tags: ['a']
-    }
-]
+const selectBook = async () => {
+    const choices = books.map((b, i) => { return { name: b.name, value: i } })
 
-const wait = async (page, selector) => {
-    await page.waitForSelector(selector)
-    return page.waitFor(500)
+    const questions = [{
+        type: 'search-list',
+        name: 'book',
+        message: 'Selecione o livro',
+        choices
+    }]
+
+    const answer = await prompt(questions)
+    return books[answer.book]
 }
 
-const click = async (page, id) => {
-    await wait(page, id)
-    return page.click(id)
+const validate = maxValue => answer => !isNaN(answer) && answer <= maxValue
+
+const selectChapter = async book => {
+    const lastChapter = book.chapters.length;
+
+    const questions = [{
+        type: 'input',
+        name: 'chapter',
+        message: `Selecione o Capítulo (1 à ${lastChapter})`,
+        validate: validate(lastChapter)
+    }]
+
+    const answer = await prompt(questions)
+    return parseInt(answer.chapter)
 }
 
-const type = async (page, id, txt, opts) => {
-    await wait(page, id)
-    return page.type(id, txt, opts)
+const selectVerse = async (book, chapterNumber) => {
+    const lastVerse = book.chapters[chapterNumber]
+
+    const questions = [{
+        type: 'input',
+        name: 'verse',
+        message: `Selecione o Versículo (1 à ${lastVerse})`,
+        validate: validate(lastVerse)
+    }]
+
+    const answer = await prompt(questions)
+    return parseInt(answer.verse)
 }
 
-const waitNewPage = async (browser, id) => {
-    return new Promise(resolve => browser.once('targetcreated', async target => {
-        const newPage = await target.page();
-        await newPage.waitFor(id)
+program
+    .command('mark <color>')
+    .action(async color => {
+        const book = await selectBook()
+        const chapterNumber = await selectChapter(book)
+        const verse = await selectVerse(book, chapterNumber)
 
-        resolve(newPage)
-    }))
-}
+        console.log(book.name + '-' + chapterNumber + ':' + verse)
+    })
 
-(async () => {
-    debugger
-
-    const browser = await puppeteer.launch({ headless: false })
-    const page = await browser.newPage()
-    const waitUntil = { waitUntil: 'networkidle2' };
-
-    await signIn()
-
-    for (let i in verses) {
-        await saveVerse(verses[i])
-    }
-
-    await page.waitFor(7000)
-
-    await browser.close()
-
-    async function signIn() {
-        await page.goto('https://my.bible.com/pt/sign-in', waitUntil)
-        await click(page, '#googleSigninButton')
-
-        const popup = await waitNewPage(browser, "#identifierId")
-
-        await type(popup, "#identifierId", process.env.EMAIL)
-        await click(popup, "#identifierNext");
-
-        await type(popup, "input[name='password']", process.env.PASSWORD)
-        await click(popup, "#passwordNext");
-
-        await wait(page, "img[alt='avatar']")
-    }
-
-    async function saveVerse({ version, book, chapter, verse, tags }) {
-        await page.goto(url(version, book, chapter), waitUntil)
-
-        await click(page, `span[class="verse v${verse}"`)
-
-        await click(page, "div[class='verse-action-footer open'] > .yv-button-bar > div:nth-child(3)")
-
-        for (let i in tags) {
-            await type(page, ".card-footer input", tags[i])
-            await page.evaluate(() => { document.querySelector(".card-footer input").value = '' })
-            await page.keyboard.down('Enter')
-        }
-
-        await click(page, ".color-trigger-button")
-        await page.evaluate(() => { document.querySelectorAll('.color.color-ffcaf7')[1].click() })
-        await click(page, ".solid-button.green")
-    }
-})()
+program.parse(['mark', 'pink'], { from: 'user' })

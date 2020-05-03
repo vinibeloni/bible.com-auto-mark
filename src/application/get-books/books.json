@@ -1,0 +1,6249 @@
+[
+    {
+        "name": "Gênesis",
+        "chapters": [
+            {
+                "alias": "GEN.1",
+                "number": "1",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "GEN.2",
+                "number": "2",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "GEN.3",
+                "number": "3",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "GEN.4",
+                "number": "4",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "GEN.5",
+                "number": "5",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "GEN.6",
+                "number": "6",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "GEN.7",
+                "number": "7",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "GEN.8",
+                "number": "8",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "GEN.9",
+                "number": "9",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "GEN.10",
+                "number": "10",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "GEN.11",
+                "number": "11",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "GEN.12",
+                "number": "12",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "GEN.13",
+                "number": "13",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "GEN.14",
+                "number": "14",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "GEN.15",
+                "number": "15",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "GEN.16",
+                "number": "16",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "GEN.17",
+                "number": "17",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "GEN.18",
+                "number": "18",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "GEN.19",
+                "number": "19",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "GEN.20",
+                "number": "20",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "GEN.21",
+                "number": "21",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "GEN.22",
+                "number": "22",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "GEN.23",
+                "number": "23",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "GEN.24",
+                "number": "24",
+                "lastVerse": "67"
+            },
+            {
+                "alias": "GEN.25",
+                "number": "25",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "GEN.26",
+                "number": "26",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "GEN.27",
+                "number": "27",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "GEN.28",
+                "number": "28",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "GEN.29",
+                "number": "29",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "GEN.30",
+                "number": "30",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "GEN.31",
+                "number": "31",
+                "lastVerse": "55"
+            },
+            {
+                "alias": "GEN.32",
+                "number": "32",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "GEN.33",
+                "number": "33",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "GEN.34",
+                "number": "34",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "GEN.35",
+                "number": "35",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "GEN.36",
+                "number": "36",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "GEN.37",
+                "number": "37",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "GEN.38",
+                "number": "38",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "GEN.39",
+                "number": "39",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "GEN.40",
+                "number": "40",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "GEN.41",
+                "number": "41",
+                "lastVerse": "57"
+            },
+            {
+                "alias": "GEN.42",
+                "number": "42",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "GEN.43",
+                "number": "43",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "GEN.44",
+                "number": "44",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "GEN.45",
+                "number": "45",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "GEN.46",
+                "number": "46",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "GEN.47",
+                "number": "47",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "GEN.48",
+                "number": "48",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "GEN.49",
+                "number": "49",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "GEN.50",
+                "number": "50",
+                "lastVerse": "26"
+            }
+        ]
+    },
+    {
+        "name": "Êxodo",
+        "chapters": [
+            {
+                "alias": "EXO.1",
+                "number": "1",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "EXO.2",
+                "number": "2",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "EXO.3",
+                "number": "3",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "EXO.4",
+                "number": "4",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "EXO.5",
+                "number": "5",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EXO.6",
+                "number": "6",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "EXO.7",
+                "number": "7",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "EXO.8",
+                "number": "8",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "EXO.9",
+                "number": "9",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "EXO.10",
+                "number": "10",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "EXO.11",
+                "number": "11",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "EXO.12",
+                "number": "12",
+                "lastVerse": "51"
+            },
+            {
+                "alias": "EXO.13",
+                "number": "13",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "EXO.14",
+                "number": "14",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "EXO.15",
+                "number": "15",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "EXO.16",
+                "number": "16",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "EXO.17",
+                "number": "17",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "EXO.18",
+                "number": "18",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "EXO.19",
+                "number": "19",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "EXO.20",
+                "number": "20",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "EXO.21",
+                "number": "21",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "EXO.22",
+                "number": "22",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "EXO.23",
+                "number": "23",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "EXO.24",
+                "number": "24",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "EXO.25",
+                "number": "25",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "EXO.26",
+                "number": "26",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "EXO.27",
+                "number": "27",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "EXO.28",
+                "number": "28",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "EXO.29",
+                "number": "29",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "EXO.30",
+                "number": "30",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "EXO.31",
+                "number": "31",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "EXO.32",
+                "number": "32",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "EXO.33",
+                "number": "33",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EXO.34",
+                "number": "34",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "EXO.35",
+                "number": "35",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "EXO.36",
+                "number": "36",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "EXO.37",
+                "number": "37",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "EXO.38",
+                "number": "38",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "EXO.39",
+                "number": "39",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "EXO.40",
+                "number": "40",
+                "lastVerse": "38"
+            }
+        ]
+    },
+    {
+        "name": "Levítico",
+        "chapters": [
+            {
+                "alias": "LEV.1",
+                "number": "1",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "LEV.2",
+                "number": "2",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "LEV.3",
+                "number": "3",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "LEV.4",
+                "number": "4",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "LEV.5",
+                "number": "5",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "LEV.6",
+                "number": "6",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "LEV.7",
+                "number": "7",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "LEV.8",
+                "number": "8",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "LEV.9",
+                "number": "9",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "LEV.10",
+                "number": "10",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "LEV.11",
+                "number": "11",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "LEV.12",
+                "number": "12",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "LEV.13",
+                "number": "13",
+                "lastVerse": "59"
+            },
+            {
+                "alias": "LEV.14",
+                "number": "14",
+                "lastVerse": "57"
+            },
+            {
+                "alias": "LEV.15",
+                "number": "15",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "LEV.16",
+                "number": "16",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "LEV.17",
+                "number": "17",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "LEV.18",
+                "number": "18",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "LEV.19",
+                "number": "19",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "LEV.20",
+                "number": "20",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "LEV.21",
+                "number": "21",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "LEV.22",
+                "number": "22",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "LEV.23",
+                "number": "23",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "LEV.24",
+                "number": "24",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "LEV.25",
+                "number": "25",
+                "lastVerse": "55"
+            },
+            {
+                "alias": "LEV.26",
+                "number": "26",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "LEV.27",
+                "number": "27",
+                "lastVerse": "34"
+            }
+        ]
+    },
+    {
+        "name": "Números",
+        "chapters": [
+            {
+                "alias": "NUM.1",
+                "number": "1",
+                "lastVerse": "54"
+            },
+            {
+                "alias": "NUM.2",
+                "number": "2",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "NUM.3",
+                "number": "3",
+                "lastVerse": "51"
+            },
+            {
+                "alias": "NUM.4",
+                "number": "4",
+                "lastVerse": "49"
+            },
+            {
+                "alias": "NUM.5",
+                "number": "5",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "NUM.6",
+                "number": "6",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "NUM.7",
+                "number": "7",
+                "lastVerse": "89"
+            },
+            {
+                "alias": "NUM.8",
+                "number": "8",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "NUM.9",
+                "number": "9",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "NUM.10",
+                "number": "10",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "NUM.11",
+                "number": "11",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "NUM.12",
+                "number": "12",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "NUM.13",
+                "number": "13",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "NUM.14",
+                "number": "14",
+                "lastVerse": "45"
+            },
+            {
+                "alias": "NUM.15",
+                "number": "15",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "NUM.16",
+                "number": "16",
+                "lastVerse": "50"
+            },
+            {
+                "alias": "NUM.17",
+                "number": "17",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "NUM.18",
+                "number": "18",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "NUM.19",
+                "number": "19",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "NUM.20",
+                "number": "20",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "NUM.21",
+                "number": "21",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "NUM.22",
+                "number": "22",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "NUM.23",
+                "number": "23",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "NUM.24",
+                "number": "24",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "NUM.25",
+                "number": "25",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "NUM.26",
+                "number": "26",
+                "lastVerse": "65"
+            },
+            {
+                "alias": "NUM.27",
+                "number": "27",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "NUM.28",
+                "number": "28",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "NUM.29",
+                "number": "29",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "NUM.30",
+                "number": "30",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "NUM.31",
+                "number": "31",
+                "lastVerse": "54"
+            },
+            {
+                "alias": "NUM.32",
+                "number": "32",
+                "lastVerse": "42"
+            },
+            {
+                "alias": "NUM.33",
+                "number": "33",
+                "lastVerse": "56"
+            },
+            {
+                "alias": "NUM.34",
+                "number": "34",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "NUM.35",
+                "number": "35",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "NUM.36",
+                "number": "36",
+                "lastVerse": "13"
+            }
+        ]
+    },
+    {
+        "name": "Deuteronômio",
+        "chapters": [
+            {
+                "alias": "DEU.1",
+                "number": "1",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "DEU.2",
+                "number": "2",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "DEU.3",
+                "number": "3",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "DEU.4",
+                "number": "4",
+                "lastVerse": "49"
+            },
+            {
+                "alias": "DEU.5",
+                "number": "5",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "DEU.6",
+                "number": "6",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "DEU.7",
+                "number": "7",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "DEU.8",
+                "number": "8",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "DEU.9",
+                "number": "9",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "DEU.10",
+                "number": "10",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "DEU.11",
+                "number": "11",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "DEU.12",
+                "number": "12",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "DEU.13",
+                "number": "13",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "DEU.14",
+                "number": "14",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "DEU.15",
+                "number": "15",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "DEU.16",
+                "number": "16",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "DEU.17",
+                "number": "17",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "DEU.18",
+                "number": "18",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "DEU.19",
+                "number": "19",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "DEU.20",
+                "number": "20",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "DEU.21",
+                "number": "21",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "DEU.22",
+                "number": "22",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "DEU.23",
+                "number": "23",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "DEU.24",
+                "number": "24",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "DEU.25",
+                "number": "25",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "DEU.26",
+                "number": "26",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "DEU.27",
+                "number": "27",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "DEU.28",
+                "number": "28",
+                "lastVerse": "68"
+            },
+            {
+                "alias": "DEU.29",
+                "number": "29",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "DEU.30",
+                "number": "30",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "DEU.31",
+                "number": "31",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "DEU.32",
+                "number": "32",
+                "lastVerse": "52"
+            },
+            {
+                "alias": "DEU.33",
+                "number": "33",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "DEU.34",
+                "number": "34",
+                "lastVerse": "12"
+            }
+        ]
+    },
+    {
+        "name": "Josué",
+        "chapters": [
+            {
+                "alias": "JOS.1",
+                "number": "1",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "JOS.2",
+                "number": "2",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JOS.3",
+                "number": "3",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "JOS.4",
+                "number": "4",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JOS.5",
+                "number": "5",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "JOS.6",
+                "number": "6",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "JOS.7",
+                "number": "7",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "JOS.8",
+                "number": "8",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "JOS.9",
+                "number": "9",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "JOS.10",
+                "number": "10",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "JOS.11",
+                "number": "11",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "JOS.12",
+                "number": "12",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JOS.13",
+                "number": "13",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "JOS.14",
+                "number": "14",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "JOS.15",
+                "number": "15",
+                "lastVerse": "63"
+            },
+            {
+                "alias": "JOS.16",
+                "number": "16",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "JOS.17",
+                "number": "17",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "JOS.18",
+                "number": "18",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "JOS.19",
+                "number": "19",
+                "lastVerse": "51"
+            },
+            {
+                "alias": "JOS.20",
+                "number": "20",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "JOS.21",
+                "number": "21",
+                "lastVerse": "45"
+            },
+            {
+                "alias": "JOS.22",
+                "number": "22",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "JOS.23",
+                "number": "23",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "JOS.24",
+                "number": "24",
+                "lastVerse": "33"
+            }
+        ]
+    },
+    {
+        "name": "Juízes",
+        "chapters": [
+            {
+                "alias": "JDG.1",
+                "number": "1",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "JDG.2",
+                "number": "2",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "JDG.3",
+                "number": "3",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JDG.4",
+                "number": "4",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JDG.5",
+                "number": "5",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JDG.6",
+                "number": "6",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "JDG.7",
+                "number": "7",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JDG.8",
+                "number": "8",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "JDG.9",
+                "number": "9",
+                "lastVerse": "57"
+            },
+            {
+                "alias": "JDG.10",
+                "number": "10",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "JDG.11",
+                "number": "11",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "JDG.12",
+                "number": "12",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "JDG.13",
+                "number": "13",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JDG.14",
+                "number": "14",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "JDG.15",
+                "number": "15",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "JDG.16",
+                "number": "16",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JDG.17",
+                "number": "17",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "JDG.18",
+                "number": "18",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JDG.19",
+                "number": "19",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "JDG.20",
+                "number": "20",
+                "lastVerse": "48"
+            },
+            {
+                "alias": "JDG.21",
+                "number": "21",
+                "lastVerse": "25"
+            }
+        ]
+    },
+    {
+        "name": "Rute",
+        "chapters": [
+            {
+                "alias": "RUT.1",
+                "number": "1",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "RUT.2",
+                "number": "2",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "RUT.3",
+                "number": "3",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "RUT.4",
+                "number": "4",
+                "lastVerse": "22"
+            }
+        ]
+    },
+    {
+        "name": "1 Samuel",
+        "chapters": [
+            {
+                "alias": "1SA.1",
+                "number": "1",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "1SA.2",
+                "number": "2",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "1SA.3",
+                "number": "3",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "1SA.4",
+                "number": "4",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "1SA.5",
+                "number": "5",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "1SA.6",
+                "number": "6",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "1SA.7",
+                "number": "7",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "1SA.8",
+                "number": "8",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "1SA.9",
+                "number": "9",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "1SA.10",
+                "number": "10",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "1SA.11",
+                "number": "11",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "1SA.12",
+                "number": "12",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "1SA.13",
+                "number": "13",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "1SA.14",
+                "number": "14",
+                "lastVerse": "52"
+            },
+            {
+                "alias": "1SA.15",
+                "number": "15",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "1SA.16",
+                "number": "16",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "1SA.17",
+                "number": "17",
+                "lastVerse": "58"
+            },
+            {
+                "alias": "1SA.18",
+                "number": "18",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "1SA.19",
+                "number": "19",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "1SA.20",
+                "number": "20",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "1SA.21",
+                "number": "21",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "1SA.22",
+                "number": "22",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "1SA.23",
+                "number": "23",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "1SA.24",
+                "number": "24",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "1SA.25",
+                "number": "25",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "1SA.26",
+                "number": "26",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "1SA.27",
+                "number": "27",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "1SA.28",
+                "number": "28",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "1SA.29",
+                "number": "29",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "1SA.30",
+                "number": "30",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "1SA.31",
+                "number": "31",
+                "lastVerse": "13"
+            }
+        ]
+    },
+    {
+        "name": "2 Samuel",
+        "chapters": [
+            {
+                "alias": "2SA.1",
+                "number": "1",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2SA.2",
+                "number": "2",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "2SA.3",
+                "number": "3",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "2SA.4",
+                "number": "4",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "2SA.5",
+                "number": "5",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "2SA.6",
+                "number": "6",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "2SA.7",
+                "number": "7",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "2SA.8",
+                "number": "8",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2SA.9",
+                "number": "9",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "2SA.10",
+                "number": "10",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "2SA.11",
+                "number": "11",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2SA.12",
+                "number": "12",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "2SA.13",
+                "number": "13",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "2SA.14",
+                "number": "14",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "2SA.15",
+                "number": "15",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "2SA.16",
+                "number": "16",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "2SA.17",
+                "number": "17",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "2SA.18",
+                "number": "18",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "2SA.19",
+                "number": "19",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "2SA.20",
+                "number": "20",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "2SA.21",
+                "number": "21",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "2SA.22",
+                "number": "22",
+                "lastVerse": "51"
+            },
+            {
+                "alias": "2SA.23",
+                "number": "23",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "2SA.24",
+                "number": "24",
+                "lastVerse": "25"
+            }
+        ]
+    },
+    {
+        "name": "1 Reis",
+        "chapters": [
+            {
+                "alias": "1KI.1",
+                "number": "1",
+                "lastVerse": "53"
+            },
+            {
+                "alias": "1KI.2",
+                "number": "2",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "1KI.3",
+                "number": "3",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "1KI.4",
+                "number": "4",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "1KI.5",
+                "number": "5",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "1KI.6",
+                "number": "6",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "1KI.7",
+                "number": "7",
+                "lastVerse": "51"
+            },
+            {
+                "alias": "1KI.8",
+                "number": "8",
+                "lastVerse": "66"
+            },
+            {
+                "alias": "1KI.9",
+                "number": "9",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "1KI.10",
+                "number": "10",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "1KI.11",
+                "number": "11",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "1KI.12",
+                "number": "12",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "1KI.13",
+                "number": "13",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "1KI.14",
+                "number": "14",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "1KI.15",
+                "number": "15",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "1KI.16",
+                "number": "16",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "1KI.17",
+                "number": "17",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "1KI.18",
+                "number": "18",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "1KI.19",
+                "number": "19",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "1KI.20",
+                "number": "20",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "1KI.21",
+                "number": "21",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "1KI.22",
+                "number": "22",
+                "lastVerse": "53"
+            }
+        ]
+    },
+    {
+        "name": "2 Reis",
+        "chapters": [
+            {
+                "alias": "2KI.1",
+                "number": "1",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2KI.2",
+                "number": "2",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "2KI.3",
+                "number": "3",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2KI.4",
+                "number": "4",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "2KI.5",
+                "number": "5",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2KI.6",
+                "number": "6",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "2KI.7",
+                "number": "7",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "2KI.8",
+                "number": "8",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "2KI.9",
+                "number": "9",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "2KI.10",
+                "number": "10",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "2KI.11",
+                "number": "11",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2KI.12",
+                "number": "12",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2KI.13",
+                "number": "13",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "2KI.14",
+                "number": "14",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "2KI.15",
+                "number": "15",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "2KI.16",
+                "number": "16",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "2KI.17",
+                "number": "17",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "2KI.18",
+                "number": "18",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "2KI.19",
+                "number": "19",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "2KI.20",
+                "number": "20",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2KI.21",
+                "number": "21",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "2KI.22",
+                "number": "22",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "2KI.23",
+                "number": "23",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "2KI.24",
+                "number": "24",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "2KI.25",
+                "number": "25",
+                "lastVerse": "30"
+            }
+        ]
+    },
+    {
+        "name": "1 Crônicas",
+        "chapters": [
+            {
+                "alias": "1CH.1",
+                "number": "1",
+                "lastVerse": "54"
+            },
+            {
+                "alias": "1CH.2",
+                "number": "2",
+                "lastVerse": "55"
+            },
+            {
+                "alias": "1CH.3",
+                "number": "3",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "1CH.4",
+                "number": "4",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "1CH.5",
+                "number": "5",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "1CH.6",
+                "number": "6",
+                "lastVerse": "81"
+            },
+            {
+                "alias": "1CH.7",
+                "number": "7",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "1CH.8",
+                "number": "8",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "1CH.9",
+                "number": "9",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "1CH.10",
+                "number": "10",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "1CH.11",
+                "number": "11",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "1CH.12",
+                "number": "12",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "1CH.13",
+                "number": "13",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "1CH.14",
+                "number": "14",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "1CH.15",
+                "number": "15",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "1CH.16",
+                "number": "16",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "1CH.17",
+                "number": "17",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "1CH.18",
+                "number": "18",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "1CH.19",
+                "number": "19",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "1CH.20",
+                "number": "20",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "1CH.21",
+                "number": "21",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "1CH.22",
+                "number": "22",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "1CH.23",
+                "number": "23",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "1CH.24",
+                "number": "24",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "1CH.25",
+                "number": "25",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "1CH.26",
+                "number": "26",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "1CH.27",
+                "number": "27",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "1CH.28",
+                "number": "28",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "1CH.29",
+                "number": "29",
+                "lastVerse": "30"
+            }
+        ]
+    },
+    {
+        "name": "2 Crônicas",
+        "chapters": [
+            {
+                "alias": "2CH.1",
+                "number": "1",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "2CH.2",
+                "number": "2",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2CH.3",
+                "number": "3",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "2CH.4",
+                "number": "4",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "2CH.5",
+                "number": "5",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "2CH.6",
+                "number": "6",
+                "lastVerse": "42"
+            },
+            {
+                "alias": "2CH.7",
+                "number": "7",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "2CH.8",
+                "number": "8",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2CH.9",
+                "number": "9",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "2CH.10",
+                "number": "10",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "2CH.11",
+                "number": "11",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "2CH.12",
+                "number": "12",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "2CH.13",
+                "number": "13",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "2CH.14",
+                "number": "14",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "2CH.15",
+                "number": "15",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "2CH.16",
+                "number": "16",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "2CH.17",
+                "number": "17",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "2CH.18",
+                "number": "18",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "2CH.19",
+                "number": "19",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "2CH.20",
+                "number": "20",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "2CH.21",
+                "number": "21",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "2CH.22",
+                "number": "22",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "2CH.23",
+                "number": "23",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2CH.24",
+                "number": "24",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2CH.25",
+                "number": "25",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "2CH.26",
+                "number": "26",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "2CH.27",
+                "number": "27",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "2CH.28",
+                "number": "28",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2CH.29",
+                "number": "29",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "2CH.30",
+                "number": "30",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2CH.31",
+                "number": "31",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2CH.32",
+                "number": "32",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "2CH.33",
+                "number": "33",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "2CH.34",
+                "number": "34",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "2CH.35",
+                "number": "35",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "2CH.36",
+                "number": "36",
+                "lastVerse": "23"
+            }
+        ]
+    },
+    {
+        "name": "Esdras",
+        "chapters": [
+            {
+                "alias": "EZR.1",
+                "number": "1",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "EZR.2",
+                "number": "2",
+                "lastVerse": "70"
+            },
+            {
+                "alias": "EZR.3",
+                "number": "3",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "EZR.4",
+                "number": "4",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "EZR.5",
+                "number": "5",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "EZR.6",
+                "number": "6",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "EZR.7",
+                "number": "7",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "EZR.8",
+                "number": "8",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "EZR.9",
+                "number": "9",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "EZR.10",
+                "number": "10",
+                "lastVerse": "44"
+            }
+        ]
+    },
+    {
+        "name": "Neemias",
+        "chapters": [
+            {
+                "alias": "NEH.1",
+                "number": "1",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "NEH.2",
+                "number": "2",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "NEH.3",
+                "number": "3",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "NEH.4",
+                "number": "4",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "NEH.5",
+                "number": "5",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "NEH.6",
+                "number": "6",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "NEH.7",
+                "number": "7",
+                "lastVerse": "73"
+            },
+            {
+                "alias": "NEH.8",
+                "number": "8",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "NEH.9",
+                "number": "9",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "NEH.10",
+                "number": "10",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "NEH.11",
+                "number": "11",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "NEH.12",
+                "number": "12",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "NEH.13",
+                "number": "13",
+                "lastVerse": "31"
+            }
+        ]
+    },
+    {
+        "name": "Ester",
+        "chapters": [
+            {
+                "alias": "EST.1",
+                "number": "1",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "EST.2",
+                "number": "2",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EST.3",
+                "number": "3",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "EST.4",
+                "number": "4",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "EST.5",
+                "number": "5",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "EST.6",
+                "number": "6",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "EST.7",
+                "number": "7",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "EST.8",
+                "number": "8",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "EST.9",
+                "number": "9",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "EST.10",
+                "number": "10",
+                "lastVerse": "3"
+            }
+        ]
+    },
+    {
+        "name": "JÓ",
+        "chapters": [
+            {
+                "alias": "JOB.1",
+                "number": "1",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JOB.2",
+                "number": "2",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "JOB.3",
+                "number": "3",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "JOB.4",
+                "number": "4",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "JOB.5",
+                "number": "5",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "JOB.6",
+                "number": "6",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "JOB.7",
+                "number": "7",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "JOB.8",
+                "number": "8",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JOB.9",
+                "number": "9",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "JOB.10",
+                "number": "10",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JOB.11",
+                "number": "11",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "JOB.12",
+                "number": "12",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JOB.13",
+                "number": "13",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "JOB.14",
+                "number": "14",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JOB.15",
+                "number": "15",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "JOB.16",
+                "number": "16",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JOB.17",
+                "number": "17",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "JOB.18",
+                "number": "18",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "JOB.19",
+                "number": "19",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "JOB.20",
+                "number": "20",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "JOB.21",
+                "number": "21",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "JOB.22",
+                "number": "22",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "JOB.23",
+                "number": "23",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "JOB.24",
+                "number": "24",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JOB.25",
+                "number": "25",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "JOB.26",
+                "number": "26",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "JOB.27",
+                "number": "27",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "JOB.28",
+                "number": "28",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "JOB.29",
+                "number": "29",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JOB.30",
+                "number": "30",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JOB.31",
+                "number": "31",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "JOB.32",
+                "number": "32",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JOB.33",
+                "number": "33",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "JOB.34",
+                "number": "34",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "JOB.35",
+                "number": "35",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "JOB.36",
+                "number": "36",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "JOB.37",
+                "number": "37",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JOB.38",
+                "number": "38",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "JOB.39",
+                "number": "39",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "JOB.40",
+                "number": "40",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JOB.41",
+                "number": "41",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "JOB.42",
+                "number": "42",
+                "lastVerse": "17"
+            }
+        ]
+    },
+    {
+        "name": "Salmos",
+        "chapters": [
+            {
+                "alias": "PSA.1",
+                "number": "1",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "PSA.2",
+                "number": "2",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.3",
+                "number": "3",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.4",
+                "number": "4",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.5",
+                "number": "5",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.6",
+                "number": "6",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "PSA.7",
+                "number": "7",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "PSA.8",
+                "number": "8",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.9",
+                "number": "9",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "PSA.10",
+                "number": "10",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "PSA.11",
+                "number": "11",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.12",
+                "number": "12",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.13",
+                "number": "13",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "PSA.14",
+                "number": "14",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.15",
+                "number": "15",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "PSA.16",
+                "number": "16",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.17",
+                "number": "17",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "PSA.18",
+                "number": "18",
+                "lastVerse": "50"
+            },
+            {
+                "alias": "PSA.19",
+                "number": "19",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "PSA.20",
+                "number": "20",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.21",
+                "number": "21",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.22",
+                "number": "22",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "PSA.23",
+                "number": "23",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "PSA.24",
+                "number": "24",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "PSA.25",
+                "number": "25",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "PSA.26",
+                "number": "26",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.27",
+                "number": "27",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "PSA.28",
+                "number": "28",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.29",
+                "number": "29",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.30",
+                "number": "30",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.31",
+                "number": "31",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "PSA.32",
+                "number": "32",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.33",
+                "number": "33",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "PSA.34",
+                "number": "34",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "PSA.35",
+                "number": "35",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PSA.36",
+                "number": "36",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.37",
+                "number": "37",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "PSA.38",
+                "number": "38",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "PSA.39",
+                "number": "39",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.40",
+                "number": "40",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "PSA.41",
+                "number": "41",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.42",
+                "number": "42",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.43",
+                "number": "43",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "PSA.44",
+                "number": "44",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "PSA.45",
+                "number": "45",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "PSA.46",
+                "number": "46",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.47",
+                "number": "47",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.48",
+                "number": "48",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "PSA.49",
+                "number": "49",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "PSA.50",
+                "number": "50",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "PSA.51",
+                "number": "51",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "PSA.52",
+                "number": "52",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.53",
+                "number": "53",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "PSA.54",
+                "number": "54",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.55",
+                "number": "55",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "PSA.56",
+                "number": "56",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.57",
+                "number": "57",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.58",
+                "number": "58",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.59",
+                "number": "59",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "PSA.60",
+                "number": "60",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.61",
+                "number": "61",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.62",
+                "number": "62",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.63",
+                "number": "63",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.65",
+                "number": "65",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.66",
+                "number": "66",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "PSA.67",
+                "number": "67",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.68",
+                "number": "68",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "PSA.69",
+                "number": "69",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "PSA.70",
+                "number": "70",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "PSA.71",
+                "number": "71",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "PSA.72",
+                "number": "72",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "PSA.73",
+                "number": "73",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PSA.74",
+                "number": "74",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "PSA.75",
+                "number": "75",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "PSA.76",
+                "number": "76",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.77",
+                "number": "77",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "PSA.78",
+                "number": "78",
+                "lastVerse": "72"
+            },
+            {
+                "alias": "PSA.79",
+                "number": "79",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.80",
+                "number": "80",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "PSA.81",
+                "number": "81",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "PSA.82",
+                "number": "82",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.83",
+                "number": "83",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "PSA.84",
+                "number": "84",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.85",
+                "number": "85",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.86",
+                "number": "86",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "PSA.87",
+                "number": "87",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.88",
+                "number": "88",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "PSA.89",
+                "number": "89",
+                "lastVerse": "52"
+            },
+            {
+                "alias": "PSA.90",
+                "number": "90",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "PSA.91",
+                "number": "91",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "PSA.92",
+                "number": "92",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "PSA.93",
+                "number": "93",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "PSA.94",
+                "number": "94",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "PSA.95",
+                "number": "95",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "PSA.96",
+                "number": "96",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.97",
+                "number": "97",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.98",
+                "number": "98",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.99",
+                "number": "99",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.100",
+                "number": "100",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "PSA.101",
+                "number": "101",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.102",
+                "number": "102",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PSA.103",
+                "number": "103",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "PSA.104",
+                "number": "104",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "PSA.105",
+                "number": "105",
+                "lastVerse": "45"
+            },
+            {
+                "alias": "PSA.106",
+                "number": "106",
+                "lastVerse": "48"
+            },
+            {
+                "alias": "PSA.107",
+                "number": "107",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "PSA.108",
+                "number": "108",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.109",
+                "number": "109",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "PSA.110",
+                "number": "110",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.111",
+                "number": "111",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "PSA.112",
+                "number": "112",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "PSA.113",
+                "number": "113",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.114",
+                "number": "114",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.115",
+                "number": "115",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "PSA.116",
+                "number": "116",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "PSA.117",
+                "number": "117",
+                "lastVerse": "2"
+            },
+            {
+                "alias": "PSA.118",
+                "number": "118",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "PSA.119",
+                "number": "119",
+                "lastVerse": "176"
+            },
+            {
+                "alias": "PSA.120",
+                "number": "120",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.121",
+                "number": "121",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.122",
+                "number": "122",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.123",
+                "number": "123",
+                "lastVerse": "4"
+            },
+            {
+                "alias": "PSA.124",
+                "number": "124",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.125",
+                "number": "125",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "PSA.126",
+                "number": "126",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "PSA.127",
+                "number": "127",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "PSA.128",
+                "number": "128",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "PSA.129",
+                "number": "129",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.130",
+                "number": "130",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.131",
+                "number": "131",
+                "lastVerse": "3"
+            },
+            {
+                "alias": "PSA.132",
+                "number": "132",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "PSA.133",
+                "number": "133",
+                "lastVerse": "3"
+            },
+            {
+                "alias": "PSA.134",
+                "number": "134",
+                "lastVerse": "3"
+            },
+            {
+                "alias": "PSA.135",
+                "number": "135",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "PSA.136",
+                "number": "136",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "PSA.137",
+                "number": "137",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.138",
+                "number": "138",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "PSA.139",
+                "number": "139",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "PSA.140",
+                "number": "140",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "PSA.141",
+                "number": "141",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "PSA.142",
+                "number": "142",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "PSA.143",
+                "number": "143",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "PSA.144",
+                "number": "144",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "PSA.145",
+                "number": "145",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "PSA.146",
+                "number": "146",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "PSA.147",
+                "number": "147",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "PSA.148",
+                "number": "148",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "PSA.149",
+                "number": "149",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "PSA.150",
+                "number": "150",
+                "lastVerse": "6"
+            },
+            null
+        ]
+    },
+    {
+        "name": "Provérbios",
+        "chapters": [
+            {
+                "alias": "PRO.1",
+                "number": "1",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "PRO.2",
+                "number": "2",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "PRO.3",
+                "number": "3",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "PRO.4",
+                "number": "4",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "PRO.5",
+                "number": "5",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "PRO.6",
+                "number": "6",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "PRO.7",
+                "number": "7",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "PRO.8",
+                "number": "8",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "PRO.9",
+                "number": "9",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "PRO.10",
+                "number": "10",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "PRO.11",
+                "number": "11",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "PRO.12",
+                "number": "12",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PRO.13",
+                "number": "13",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "PRO.14",
+                "number": "14",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "PRO.15",
+                "number": "15",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "PRO.16",
+                "number": "16",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "PRO.17",
+                "number": "17",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PRO.18",
+                "number": "18",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "PRO.19",
+                "number": "19",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "PRO.20",
+                "number": "20",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "PRO.21",
+                "number": "21",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "PRO.22",
+                "number": "22",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "PRO.23",
+                "number": "23",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "PRO.24",
+                "number": "24",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "PRO.25",
+                "number": "25",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PRO.26",
+                "number": "26",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PRO.27",
+                "number": "27",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "PRO.28",
+                "number": "28",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "PRO.29",
+                "number": "29",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "PRO.30",
+                "number": "30",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "PRO.31",
+                "number": "31",
+                "lastVerse": "31"
+            }
+        ]
+    },
+    {
+        "name": "Eclesiastes",
+        "chapters": [
+            {
+                "alias": "ECC.1",
+                "number": "1",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "ECC.2",
+                "number": "2",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "ECC.3",
+                "number": "3",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ECC.4",
+                "number": "4",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "ECC.5",
+                "number": "5",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "ECC.6",
+                "number": "6",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "ECC.7",
+                "number": "7",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "ECC.8",
+                "number": "8",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "ECC.9",
+                "number": "9",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "ECC.10",
+                "number": "10",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "ECC.11",
+                "number": "11",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "ECC.12",
+                "number": "12",
+                "lastVerse": "14"
+            }
+        ]
+    },
+    {
+        "name": "Cântico dos Cânticos",
+        "chapters": [
+            {
+                "alias": "SNG.1",
+                "number": "1",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "SNG.2",
+                "number": "2",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "SNG.3",
+                "number": "3",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "SNG.4",
+                "number": "4",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "SNG.5",
+                "number": "5",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "SNG.6",
+                "number": "6",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "SNG.7",
+                "number": "7",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "SNG.8",
+                "number": "8",
+                "lastVerse": "14"
+            }
+        ]
+    },
+    {
+        "name": "Isaías",
+        "chapters": [
+            {
+                "alias": "ISA.1",
+                "number": "1",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "ISA.2",
+                "number": "2",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ISA.3",
+                "number": "3",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "ISA.4",
+                "number": "4",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "ISA.5",
+                "number": "5",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "ISA.6",
+                "number": "6",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "ISA.7",
+                "number": "7",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ISA.8",
+                "number": "8",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ISA.9",
+                "number": "9",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ISA.10",
+                "number": "10",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "ISA.11",
+                "number": "11",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "ISA.12",
+                "number": "12",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "ISA.13",
+                "number": "13",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ISA.14",
+                "number": "14",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "ISA.15",
+                "number": "15",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "ISA.16",
+                "number": "16",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "ISA.17",
+                "number": "17",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "ISA.18",
+                "number": "18",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "ISA.19",
+                "number": "19",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ISA.20",
+                "number": "20",
+                "lastVerse": "6"
+            },
+            {
+                "alias": "ISA.21",
+                "number": "21",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "ISA.22",
+                "number": "22",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ISA.23",
+                "number": "23",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "ISA.24",
+                "number": "24",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "ISA.25",
+                "number": "25",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "ISA.26",
+                "number": "26",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ISA.27",
+                "number": "27",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "ISA.28",
+                "number": "28",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "ISA.29",
+                "number": "29",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "ISA.30",
+                "number": "30",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "ISA.31",
+                "number": "31",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "ISA.32",
+                "number": "32",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "ISA.33",
+                "number": "33",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "ISA.34",
+                "number": "34",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "ISA.35",
+                "number": "35",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "ISA.36",
+                "number": "36",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ISA.37",
+                "number": "37",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "ISA.38",
+                "number": "38",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ISA.39",
+                "number": "39",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "ISA.40",
+                "number": "40",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "ISA.41",
+                "number": "41",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "ISA.42",
+                "number": "42",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ISA.43",
+                "number": "43",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "ISA.44",
+                "number": "44",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "ISA.45",
+                "number": "45",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ISA.46",
+                "number": "46",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "ISA.47",
+                "number": "47",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "ISA.48",
+                "number": "48",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ISA.49",
+                "number": "49",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "ISA.50",
+                "number": "50",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "ISA.51",
+                "number": "51",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "ISA.52",
+                "number": "52",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "ISA.53",
+                "number": "53",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "ISA.54",
+                "number": "54",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "ISA.55",
+                "number": "55",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "ISA.56",
+                "number": "56",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "ISA.57",
+                "number": "57",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ISA.58",
+                "number": "58",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "ISA.59",
+                "number": "59",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ISA.60",
+                "number": "60",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "ISA.61",
+                "number": "61",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "ISA.62",
+                "number": "62",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "ISA.63",
+                "number": "63",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "ISA.64",
+                "number": "64",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "ISA.65",
+                "number": "65",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ISA.66",
+                "number": "66",
+                "lastVerse": "24"
+            }
+        ]
+    },
+    {
+        "name": "Jeremias",
+        "chapters": [
+            {
+                "alias": "JER.1",
+                "number": "1",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "JER.2",
+                "number": "2",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "JER.3",
+                "number": "3",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JER.4",
+                "number": "4",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JER.5",
+                "number": "5",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JER.6",
+                "number": "6",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "JER.7",
+                "number": "7",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "JER.8",
+                "number": "8",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JER.9",
+                "number": "9",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "JER.10",
+                "number": "10",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JER.11",
+                "number": "11",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "JER.12",
+                "number": "12",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "JER.13",
+                "number": "13",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "JER.14",
+                "number": "14",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JER.15",
+                "number": "15",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "JER.16",
+                "number": "16",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "JER.17",
+                "number": "17",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "JER.18",
+                "number": "18",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "JER.19",
+                "number": "19",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "JER.20",
+                "number": "20",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "JER.21",
+                "number": "21",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "JER.22",
+                "number": "22",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "JER.23",
+                "number": "23",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "JER.24",
+                "number": "24",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "JER.25",
+                "number": "25",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "JER.26",
+                "number": "26",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JER.27",
+                "number": "27",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JER.28",
+                "number": "28",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "JER.29",
+                "number": "29",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "JER.30",
+                "number": "30",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "JER.31",
+                "number": "31",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "JER.32",
+                "number": "32",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "JER.33",
+                "number": "33",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "JER.34",
+                "number": "34",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JER.35",
+                "number": "35",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "JER.36",
+                "number": "36",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "JER.37",
+                "number": "37",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "JER.38",
+                "number": "38",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "JER.39",
+                "number": "39",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "JER.40",
+                "number": "40",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "JER.41",
+                "number": "41",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "JER.42",
+                "number": "42",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "JER.43",
+                "number": "43",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "JER.44",
+                "number": "44",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "JER.45",
+                "number": "45",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "JER.46",
+                "number": "46",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "JER.47",
+                "number": "47",
+                "lastVerse": "7"
+            },
+            {
+                "alias": "JER.48",
+                "number": "48",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "JER.49",
+                "number": "49",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "JER.50",
+                "number": "50",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "JER.51",
+                "number": "51",
+                "lastVerse": "64"
+            },
+            {
+                "alias": "JER.52",
+                "number": "52",
+                "lastVerse": "34"
+            }
+        ]
+    },
+    {
+        "name": "Lamentações",
+        "chapters": [
+            {
+                "alias": "LAM.1",
+                "number": "1",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "LAM.2",
+                "number": "2",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "LAM.3",
+                "number": "3",
+                "lastVerse": "66"
+            },
+            {
+                "alias": "LAM.4",
+                "number": "4",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "LAM.5",
+                "number": "5",
+                "lastVerse": "22"
+            }
+        ]
+    },
+    {
+        "name": "Ezequiel",
+        "chapters": [
+            {
+                "alias": "EZK.1",
+                "number": "1",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "EZK.2",
+                "number": "2",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "EZK.3",
+                "number": "3",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "EZK.4",
+                "number": "4",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "EZK.5",
+                "number": "5",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "EZK.6",
+                "number": "6",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "EZK.7",
+                "number": "7",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "EZK.8",
+                "number": "8",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "EZK.9",
+                "number": "9",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "EZK.10",
+                "number": "10",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "EZK.11",
+                "number": "11",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "EZK.12",
+                "number": "12",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "EZK.13",
+                "number": "13",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EZK.14",
+                "number": "14",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EZK.15",
+                "number": "15",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "EZK.16",
+                "number": "16",
+                "lastVerse": "63"
+            },
+            {
+                "alias": "EZK.17",
+                "number": "17",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "EZK.18",
+                "number": "18",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "EZK.19",
+                "number": "19",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "EZK.20",
+                "number": "20",
+                "lastVerse": "49"
+            },
+            {
+                "alias": "EZK.21",
+                "number": "21",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "EZK.22",
+                "number": "22",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "EZK.23",
+                "number": "23",
+                "lastVerse": "49"
+            },
+            {
+                "alias": "EZK.24",
+                "number": "24",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "EZK.25",
+                "number": "25",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "EZK.26",
+                "number": "26",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "EZK.27",
+                "number": "27",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "EZK.28",
+                "number": "28",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "EZK.29",
+                "number": "29",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "EZK.30",
+                "number": "30",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "EZK.31",
+                "number": "31",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "EZK.32",
+                "number": "32",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "EZK.33",
+                "number": "33",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "EZK.34",
+                "number": "34",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "EZK.35",
+                "number": "35",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "EZK.36",
+                "number": "36",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "EZK.37",
+                "number": "37",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "EZK.38",
+                "number": "38",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EZK.39",
+                "number": "39",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "EZK.40",
+                "number": "40",
+                "lastVerse": "49"
+            },
+            {
+                "alias": "EZK.41",
+                "number": "41",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "EZK.42",
+                "number": "42",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "EZK.43",
+                "number": "43",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "EZK.44",
+                "number": "44",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "EZK.45",
+                "number": "45",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "EZK.46",
+                "number": "46",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "EZK.47",
+                "number": "47",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EZK.48",
+                "number": "48",
+                "lastVerse": "35"
+            }
+        ]
+    },
+    {
+        "name": "Daniel",
+        "chapters": [
+            {
+                "alias": "DAN.1",
+                "number": "1",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "DAN.2",
+                "number": "2",
+                "lastVerse": "49"
+            },
+            {
+                "alias": "DAN.3",
+                "number": "3",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "DAN.4",
+                "number": "4",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "DAN.5",
+                "number": "5",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "DAN.6",
+                "number": "6",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "DAN.7",
+                "number": "7",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "DAN.8",
+                "number": "8",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "DAN.9",
+                "number": "9",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "DAN.10",
+                "number": "10",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "DAN.11",
+                "number": "11",
+                "lastVerse": "45"
+            },
+            {
+                "alias": "DAN.12",
+                "number": "12",
+                "lastVerse": "13"
+            }
+        ]
+    },
+    {
+        "name": "Oseias",
+        "chapters": [
+            {
+                "alias": "HOS.1",
+                "number": "1",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "HOS.2",
+                "number": "2",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "HOS.3",
+                "number": "3",
+                "lastVerse": "5"
+            },
+            {
+                "alias": "HOS.4",
+                "number": "4",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "HOS.5",
+                "number": "5",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "HOS.6",
+                "number": "6",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "HOS.7",
+                "number": "7",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "HOS.8",
+                "number": "8",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "HOS.9",
+                "number": "9",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "HOS.10",
+                "number": "10",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "HOS.11",
+                "number": "11",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "HOS.12",
+                "number": "12",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "HOS.13",
+                "number": "13",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "HOS.14",
+                "number": "14",
+                "lastVerse": "9"
+            }
+        ]
+    },
+    {
+        "name": "Joel",
+        "chapters": [
+            {
+                "alias": "JOL.1",
+                "number": "1",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "JOL.2",
+                "number": "2",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "JOL.3",
+                "number": "3",
+                "lastVerse": "21"
+            }
+        ]
+    },
+    {
+        "name": "Amós",
+        "chapters": [
+            {
+                "alias": "AMO.1",
+                "number": "1",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "AMO.2",
+                "number": "2",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "AMO.3",
+                "number": "3",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "AMO.4",
+                "number": "4",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "AMO.5",
+                "number": "5",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "AMO.6",
+                "number": "6",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "AMO.7",
+                "number": "7",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "AMO.8",
+                "number": "8",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "AMO.9",
+                "number": "9",
+                "lastVerse": "15"
+            }
+        ]
+    },
+    {
+        "name": "Obadias",
+        "chapters": [
+            {
+                "alias": "OBA.1",
+                "number": "1",
+                "lastVerse": "21"
+            }
+        ]
+    },
+    {
+        "name": "Jonas",
+        "chapters": [
+            {
+                "alias": "JON.1",
+                "number": "1",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "JON.2",
+                "number": "2",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "JON.3",
+                "number": "3",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "JON.4",
+                "number": "4",
+                "lastVerse": "11"
+            }
+        ]
+    },
+    {
+        "name": "Miqueias",
+        "chapters": [
+            {
+                "alias": "MIC.1",
+                "number": "1",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "MIC.2",
+                "number": "2",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "MIC.3",
+                "number": "3",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "MIC.4",
+                "number": "4",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "MIC.6",
+                "number": "6",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "MIC.7",
+                "number": "7",
+                "lastVerse": "20"
+            },
+            null
+        ]
+    },
+    {
+        "name": "Naum",
+        "chapters": [
+            {
+                "alias": "NAM.1",
+                "number": "1",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "NAM.2",
+                "number": "2",
+                "lastVerse": "13"
+            },
+            null
+        ]
+    },
+    {
+        "name": "Habacuque",
+        "chapters": [
+            {
+                "alias": "HAB.1",
+                "number": "1",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "HAB.2",
+                "number": "2",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "HAB.3",
+                "number": "3",
+                "lastVerse": "19"
+            }
+        ]
+    },
+    {
+        "name": "Sofonias",
+        "chapters": [
+            {
+                "alias": "ZEP.1",
+                "number": "1",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "ZEP.2",
+                "number": "2",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "ZEP.3",
+                "number": "3",
+                "lastVerse": "20"
+            }
+        ]
+    },
+    {
+        "name": "Ageu",
+        "chapters": [
+            {
+                "alias": "HAG.1",
+                "number": "1",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "HAG.2",
+                "number": "2",
+                "lastVerse": "23"
+            }
+        ]
+    },
+    {
+        "name": "Zacarias",
+        "chapters": [
+            {
+                "alias": "ZEC.1",
+                "number": "1",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ZEC.2",
+                "number": "2",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "ZEC.3",
+                "number": "3",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "ZEC.4",
+                "number": "4",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "ZEC.5",
+                "number": "5",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "ZEC.6",
+                "number": "6",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "ZEC.7",
+                "number": "7",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "ZEC.8",
+                "number": "8",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "ZEC.9",
+                "number": "9",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "ZEC.10",
+                "number": "10",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "ZEC.11",
+                "number": "11",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "ZEC.12",
+                "number": "12",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "ZEC.13",
+                "number": "13",
+                "lastVerse": "9"
+            },
+            {
+                "alias": "ZEC.14",
+                "number": "14",
+                "lastVerse": "21"
+            }
+        ]
+    },
+    {
+        "name": "Malaquias",
+        "chapters": [
+            {
+                "alias": "MAL.1",
+                "number": "1",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "MAL.2",
+                "number": "2",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "MAL.4",
+                "number": "4",
+                "lastVerse": "6"
+            },
+            null
+        ]
+    },
+    {
+        "name": "Mateus",
+        "chapters": [
+            {
+                "alias": "MAT.1",
+                "number": "1",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "MAT.2",
+                "number": "2",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "MAT.3",
+                "number": "3",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "MAT.4",
+                "number": "4",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "MAT.5",
+                "number": "5",
+                "lastVerse": "48"
+            },
+            {
+                "alias": "MAT.6",
+                "number": "6",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "MAT.7",
+                "number": "7",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "MAT.9",
+                "number": "9",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "MAT.10",
+                "number": "10",
+                "lastVerse": "42"
+            },
+            {
+                "alias": "MAT.11",
+                "number": "11",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "MAT.12",
+                "number": "12",
+                "lastVerse": "50"
+            },
+            {
+                "alias": "MAT.13",
+                "number": "13",
+                "lastVerse": "58"
+            },
+            {
+                "alias": "MAT.14",
+                "number": "14",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "MAT.15",
+                "number": "15",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "MAT.16",
+                "number": "16",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "MAT.17",
+                "number": "17",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "MAT.18",
+                "number": "18",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "MAT.19",
+                "number": "19",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "MAT.20",
+                "number": "20",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "MAT.21",
+                "number": "21",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "MAT.23",
+                "number": "23",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "MAT.24",
+                "number": "24",
+                "lastVerse": "51"
+            },
+            {
+                "alias": "MAT.25",
+                "number": "25",
+                "lastVerse": "46"
+            },
+            {
+                "alias": "MAT.26",
+                "number": "26",
+                "lastVerse": "75"
+            },
+            {
+                "alias": "MAT.27",
+                "number": "27",
+                "lastVerse": "66"
+            },
+            {
+                "alias": "MAT.28",
+                "number": "28",
+                "lastVerse": "20"
+            },
+            null,
+            null
+        ]
+    },
+    {
+        "name": "Marcos",
+        "chapters": [
+            {
+                "alias": "MRK.1",
+                "number": "1",
+                "lastVerse": "45"
+            },
+            {
+                "alias": "MRK.2",
+                "number": "2",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "MRK.3",
+                "number": "3",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "MRK.4",
+                "number": "4",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "MRK.5",
+                "number": "5",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "MRK.6",
+                "number": "6",
+                "lastVerse": "56"
+            },
+            {
+                "alias": "MRK.7",
+                "number": "7",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "MRK.8",
+                "number": "8",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "MRK.9",
+                "number": "9",
+                "lastVerse": "50"
+            },
+            {
+                "alias": "MRK.11",
+                "number": "11",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "MRK.12",
+                "number": "12",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "MRK.13",
+                "number": "13",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "MRK.14",
+                "number": "14",
+                "lastVerse": "72"
+            },
+            {
+                "alias": "MRK.15",
+                "number": "15",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "MRK.16",
+                "number": "16",
+                "lastVerse": "20"
+            },
+            null
+        ]
+    },
+    {
+        "name": "Lucas",
+        "chapters": [
+            {
+                "alias": "LUK.1",
+                "number": "1",
+                "lastVerse": "80"
+            },
+            {
+                "alias": "LUK.2",
+                "number": "2",
+                "lastVerse": "52"
+            },
+            {
+                "alias": "LUK.3",
+                "number": "3",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "LUK.4",
+                "number": "4",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "LUK.5",
+                "number": "5",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "LUK.6",
+                "number": "6",
+                "lastVerse": "49"
+            },
+            {
+                "alias": "LUK.7",
+                "number": "7",
+                "lastVerse": "50"
+            },
+            {
+                "alias": "LUK.8",
+                "number": "8",
+                "lastVerse": "56"
+            },
+            {
+                "alias": "LUK.9",
+                "number": "9",
+                "lastVerse": "62"
+            },
+            {
+                "alias": "LUK.10",
+                "number": "10",
+                "lastVerse": "42"
+            },
+            {
+                "alias": "LUK.11",
+                "number": "11",
+                "lastVerse": "54"
+            },
+            {
+                "alias": "LUK.12",
+                "number": "12",
+                "lastVerse": "59"
+            },
+            {
+                "alias": "LUK.13",
+                "number": "13",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "LUK.14",
+                "number": "14",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "LUK.15",
+                "number": "15",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "LUK.16",
+                "number": "16",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "LUK.17",
+                "number": "17",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "LUK.18",
+                "number": "18",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "LUK.19",
+                "number": "19",
+                "lastVerse": "48"
+            },
+            {
+                "alias": "LUK.20",
+                "number": "20",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "LUK.21",
+                "number": "21",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "LUK.22",
+                "number": "22",
+                "lastVerse": "71"
+            },
+            {
+                "alias": "LUK.23",
+                "number": "23",
+                "lastVerse": "56"
+            },
+            {
+                "alias": "LUK.24",
+                "number": "24",
+                "lastVerse": "53"
+            }
+        ]
+    },
+    {
+        "name": "João",
+        "chapters": [
+            {
+                "alias": "JHN.1",
+                "number": "1",
+                "lastVerse": "51"
+            },
+            {
+                "alias": "JHN.2",
+                "number": "2",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "JHN.3",
+                "number": "3",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "JHN.4",
+                "number": "4",
+                "lastVerse": "54"
+            },
+            {
+                "alias": "JHN.5",
+                "number": "5",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "JHN.6",
+                "number": "6",
+                "lastVerse": "71"
+            },
+            {
+                "alias": "JHN.7",
+                "number": "7",
+                "lastVerse": "53"
+            },
+            {
+                "alias": "JHN.8",
+                "number": "8",
+                "lastVerse": "59"
+            },
+            {
+                "alias": "JHN.9",
+                "number": "9",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "JHN.10",
+                "number": "10",
+                "lastVerse": "42"
+            },
+            {
+                "alias": "JHN.11",
+                "number": "11",
+                "lastVerse": "57"
+            },
+            {
+                "alias": "JHN.12",
+                "number": "12",
+                "lastVerse": "50"
+            },
+            {
+                "alias": "JHN.13",
+                "number": "13",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "JHN.14",
+                "number": "14",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JHN.15",
+                "number": "15",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "JHN.16",
+                "number": "16",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "JHN.17",
+                "number": "17",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "JHN.18",
+                "number": "18",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "JHN.19",
+                "number": "19",
+                "lastVerse": "42"
+            },
+            {
+                "alias": "JHN.20",
+                "number": "20",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "JHN.21",
+                "number": "21",
+                "lastVerse": "25"
+            }
+        ]
+    },
+    {
+        "name": "Atos dos Apóstolos",
+        "chapters": [
+            {
+                "alias": "ACT.1",
+                "number": "1",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "ACT.2",
+                "number": "2",
+                "lastVerse": "47"
+            },
+            {
+                "alias": "ACT.3",
+                "number": "3",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "ACT.4",
+                "number": "4",
+                "lastVerse": "37"
+            },
+            {
+                "alias": "ACT.5",
+                "number": "5",
+                "lastVerse": "42"
+            },
+            {
+                "alias": "ACT.6",
+                "number": "6",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "ACT.7",
+                "number": "7",
+                "lastVerse": "60"
+            },
+            {
+                "alias": "ACT.8",
+                "number": "8",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "ACT.9",
+                "number": "9",
+                "lastVerse": "43"
+            },
+            {
+                "alias": "ACT.10",
+                "number": "10",
+                "lastVerse": "48"
+            },
+            {
+                "alias": "ACT.11",
+                "number": "11",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "ACT.12",
+                "number": "12",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ACT.13",
+                "number": "13",
+                "lastVerse": "52"
+            },
+            {
+                "alias": "ACT.14",
+                "number": "14",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "ACT.15",
+                "number": "15",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "ACT.16",
+                "number": "16",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "ACT.17",
+                "number": "17",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "ACT.18",
+                "number": "18",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "ACT.19",
+                "number": "19",
+                "lastVerse": "41"
+            },
+            {
+                "alias": "ACT.20",
+                "number": "20",
+                "lastVerse": "38"
+            },
+            {
+                "alias": "ACT.21",
+                "number": "21",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "ACT.22",
+                "number": "22",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "ACT.23",
+                "number": "23",
+                "lastVerse": "35"
+            },
+            {
+                "alias": "ACT.24",
+                "number": "24",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "ACT.25",
+                "number": "25",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "ACT.26",
+                "number": "26",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "ACT.27",
+                "number": "27",
+                "lastVerse": "44"
+            },
+            {
+                "alias": "ACT.28",
+                "number": "28",
+                "lastVerse": "31"
+            }
+        ]
+    },
+    {
+        "name": "Romanos",
+        "chapters": [
+            {
+                "alias": "ROM.1",
+                "number": "1",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "ROM.2",
+                "number": "2",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "ROM.3",
+                "number": "3",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "ROM.4",
+                "number": "4",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ROM.5",
+                "number": "5",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ROM.6",
+                "number": "6",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "ROM.7",
+                "number": "7",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "ROM.8",
+                "number": "8",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "ROM.9",
+                "number": "9",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "ROM.10",
+                "number": "10",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ROM.11",
+                "number": "11",
+                "lastVerse": "36"
+            },
+            {
+                "alias": "ROM.12",
+                "number": "12",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "ROM.13",
+                "number": "13",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "ROM.14",
+                "number": "14",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "ROM.15",
+                "number": "15",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "ROM.16",
+                "number": "16",
+                "lastVerse": "27"
+            }
+        ]
+    },
+    {
+        "name": "1 Coríntios",
+        "chapters": [
+            {
+                "alias": "1CO.1",
+                "number": "1",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "1CO.2",
+                "number": "2",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "1CO.3",
+                "number": "3",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "1CO.4",
+                "number": "4",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "1CO.5",
+                "number": "5",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "1CO.6",
+                "number": "6",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "1CO.7",
+                "number": "7",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "1CO.8",
+                "number": "8",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "1CO.9",
+                "number": "9",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "1CO.10",
+                "number": "10",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "1CO.11",
+                "number": "11",
+                "lastVerse": "34"
+            },
+            {
+                "alias": "1CO.12",
+                "number": "12",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "1CO.13",
+                "number": "13",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "1CO.14",
+                "number": "14",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "1CO.15",
+                "number": "15",
+                "lastVerse": "58"
+            },
+            {
+                "alias": "1CO.16",
+                "number": "16",
+                "lastVerse": "24"
+            }
+        ]
+    },
+    {
+        "name": "2 Coríntios",
+        "chapters": [
+            {
+                "alias": "2CO.1",
+                "number": "1",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "2CO.2",
+                "number": "2",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "2CO.3",
+                "number": "3",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2CO.4",
+                "number": "4",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2CO.5",
+                "number": "5",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2CO.6",
+                "number": "6",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2CO.7",
+                "number": "7",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "2CO.8",
+                "number": "8",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "2CO.9",
+                "number": "9",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "2CO.10",
+                "number": "10",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2CO.11",
+                "number": "11",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "2CO.12",
+                "number": "12",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2CO.13",
+                "number": "13",
+                "lastVerse": "14"
+            }
+        ]
+    },
+    {
+        "name": "Gálatas",
+        "chapters": [
+            {
+                "alias": "GAL.1",
+                "number": "1",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "GAL.2",
+                "number": "2",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "GAL.3",
+                "number": "3",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "GAL.4",
+                "number": "4",
+                "lastVerse": "31"
+            },
+            {
+                "alias": "GAL.5",
+                "number": "5",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "GAL.6",
+                "number": "6",
+                "lastVerse": "18"
+            }
+        ]
+    },
+    {
+        "name": "Efésios",
+        "chapters": [
+            {
+                "alias": "EPH.1",
+                "number": "1",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "EPH.2",
+                "number": "2",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "EPH.3",
+                "number": "3",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "EPH.4",
+                "number": "4",
+                "lastVerse": "32"
+            },
+            {
+                "alias": "EPH.5",
+                "number": "5",
+                "lastVerse": "33"
+            },
+            {
+                "alias": "EPH.6",
+                "number": "6",
+                "lastVerse": "24"
+            }
+        ]
+    },
+    {
+        "name": "Filipenses",
+        "chapters": [
+            {
+                "alias": "PHP.1",
+                "number": "1",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "PHP.2",
+                "number": "2",
+                "lastVerse": "30"
+            },
+            {
+                "alias": "PHP.3",
+                "number": "3",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "PHP.4",
+                "number": "4",
+                "lastVerse": "23"
+            }
+        ]
+    },
+    {
+        "name": "Colossenses",
+        "chapters": [
+            {
+                "alias": "COL.1",
+                "number": "1",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "COL.2",
+                "number": "2",
+                "lastVerse": "23"
+            },
+            {
+                "alias": "COL.3",
+                "number": "3",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "COL.4",
+                "number": "4",
+                "lastVerse": "18"
+            }
+        ]
+    },
+    {
+        "name": "Tessalonicenses",
+        "chapters": [
+            {
+                "alias": "1TH.1",
+                "number": "1",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "1TH.2",
+                "number": "2",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "1TH.3",
+                "number": "3",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "1TH.4",
+                "number": "4",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "1TH.5",
+                "number": "5",
+                "lastVerse": "28"
+            }
+        ]
+    },
+    {
+        "name": "2 Tessalonicenses",
+        "chapters": [
+            {
+                "alias": "2TH.1",
+                "number": "1",
+                "lastVerse": "12"
+            },
+            {
+                "alias": "2TH.2",
+                "number": "2",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "2TH.3",
+                "number": "3",
+                "lastVerse": "18"
+            }
+        ]
+    },
+    {
+        "name": "1 Timóteo",
+        "chapters": [
+            {
+                "alias": "1TI.1",
+                "number": "1",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "1TI.2",
+                "number": "2",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "1TI.3",
+                "number": "3",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "1TI.4",
+                "number": "4",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "1TI.5",
+                "number": "5",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "1TI.6",
+                "number": "6",
+                "lastVerse": "21"
+            }
+        ]
+    },
+    {
+        "name": "2 Timóteo",
+        "chapters": [
+            {
+                "alias": "2TI.1",
+                "number": "1",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "2TI.2",
+                "number": "2",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "2TI.3",
+                "number": "3",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "2TI.4",
+                "number": "4",
+                "lastVerse": "22"
+            }
+        ]
+    },
+    {
+        "name": "Tito",
+        "chapters": [
+            {
+                "alias": "TIT.1",
+                "number": "1",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "TIT.2",
+                "number": "2",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "TIT.3",
+                "number": "3",
+                "lastVerse": "15"
+            }
+        ]
+    },
+    {
+        "name": "Filemom",
+        "chapters": [
+            {
+                "alias": "PHM.1",
+                "number": "1",
+                "lastVerse": "25"
+            }
+        ]
+    },
+    {
+        "name": "Hebreus",
+        "chapters": [
+            {
+                "alias": "HEB.1",
+                "number": "1",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "HEB.2",
+                "number": "2",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "HEB.3",
+                "number": "3",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "HEB.4",
+                "number": "4",
+                "lastVerse": "16"
+            },
+            {
+                "alias": "HEB.5",
+                "number": "5",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "HEB.6",
+                "number": "6",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "HEB.7",
+                "number": "7",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "HEB.8",
+                "number": "8",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "HEB.9",
+                "number": "9",
+                "lastVerse": "28"
+            },
+            {
+                "alias": "HEB.10",
+                "number": "10",
+                "lastVerse": "39"
+            },
+            {
+                "alias": "HEB.11",
+                "number": "11",
+                "lastVerse": "40"
+            },
+            {
+                "alias": "HEB.12",
+                "number": "12",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "HEB.13",
+                "number": "13",
+                "lastVerse": "25"
+            }
+        ]
+    },
+    {
+        "name": "Tiago",
+        "chapters": [
+            {
+                "alias": "JAS.1",
+                "number": "1",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "JAS.2",
+                "number": "2",
+                "lastVerse": "26"
+            },
+            {
+                "alias": "JAS.3",
+                "number": "3",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "JAS.4",
+                "number": "4",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "JAS.5",
+                "number": "5",
+                "lastVerse": "20"
+            }
+        ]
+    },
+    {
+        "name": "1 Pedro",
+        "chapters": [
+            {
+                "alias": "1PE.1",
+                "number": "1",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "1PE.2",
+                "number": "2",
+                "lastVerse": "25"
+            },
+            {
+                "alias": "1PE.3",
+                "number": "3",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "1PE.4",
+                "number": "4",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "1PE.5",
+                "number": "5",
+                "lastVerse": "14"
+            }
+        ]
+    },
+    {
+        "name": "2 Pedro",
+        "chapters": [
+            {
+                "alias": "2PE.1",
+                "number": "1",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "2PE.2",
+                "number": "2",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "2PE.3",
+                "number": "3",
+                "lastVerse": "18"
+            }
+        ]
+    },
+    {
+        "name": "1 João",
+        "chapters": [
+            {
+                "alias": "1JN.1",
+                "number": "1",
+                "lastVerse": "10"
+            },
+            {
+                "alias": "1JN.2",
+                "number": "2",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "1JN.3",
+                "number": "3",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "1JN.4",
+                "number": "4",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "1JN.5",
+                "number": "5",
+                "lastVerse": "21"
+            }
+        ]
+    },
+    {
+        "name": "2 João",
+        "chapters": [
+            {
+                "alias": "2JN.1",
+                "number": "1",
+                "lastVerse": "13"
+            }
+        ]
+    },
+    {
+        "name": "3 João",
+        "chapters": [
+            {
+                "alias": "3JN.1",
+                "number": "1",
+                "lastVerse": "15"
+            }
+        ]
+    },
+    {
+        "name": "Judas",
+        "chapters": [
+            {
+                "alias": "JUD.1",
+                "number": "1",
+                "lastVerse": "25"
+            }
+        ]
+    },
+    {
+        "name": "Apocalipse",
+        "chapters": [
+            {
+                "alias": "REV.1",
+                "number": "1",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "REV.2",
+                "number": "2",
+                "lastVerse": "29"
+            },
+            {
+                "alias": "REV.3",
+                "number": "3",
+                "lastVerse": "22"
+            },
+            {
+                "alias": "REV.4",
+                "number": "4",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "REV.5",
+                "number": "5",
+                "lastVerse": "14"
+            },
+            {
+                "alias": "REV.6",
+                "number": "6",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "REV.7",
+                "number": "7",
+                "lastVerse": "17"
+            },
+            {
+                "alias": "REV.8",
+                "number": "8",
+                "lastVerse": "13"
+            },
+            {
+                "alias": "REV.9",
+                "number": "9",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "REV.10",
+                "number": "10",
+                "lastVerse": "11"
+            },
+            {
+                "alias": "REV.11",
+                "number": "11",
+                "lastVerse": "19"
+            },
+            {
+                "alias": "REV.12",
+                "number": "12",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "REV.13",
+                "number": "13",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "REV.14",
+                "number": "14",
+                "lastVerse": "20"
+            },
+            {
+                "alias": "REV.15",
+                "number": "15",
+                "lastVerse": "8"
+            },
+            {
+                "alias": "REV.16",
+                "number": "16",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "REV.17",
+                "number": "17",
+                "lastVerse": "18"
+            },
+            {
+                "alias": "REV.18",
+                "number": "18",
+                "lastVerse": "24"
+            },
+            {
+                "alias": "REV.19",
+                "number": "19",
+                "lastVerse": "21"
+            },
+            {
+                "alias": "REV.20",
+                "number": "20",
+                "lastVerse": "15"
+            },
+            {
+                "alias": "REV.21",
+                "number": "21",
+                "lastVerse": "27"
+            },
+            {
+                "alias": "REV.22",
+                "number": "22",
+                "lastVerse": "21"
+            }
+        ]
+    }
+]
