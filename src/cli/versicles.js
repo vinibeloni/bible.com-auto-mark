@@ -1,5 +1,9 @@
 const { prompt, registerPrompt } = require('inquirer')
+const Verse = require('../domain/verse')
+
 const books = require('../data/books.json')
+const repeat = require('./repeat')
+const storage = require('../data/storage')
 
 registerPrompt('search-list', require('inquirer-search-list'));
 
@@ -40,23 +44,36 @@ const selectChapter = async book => {
         validate(lastChapter))
 }
 
-const selectVerse = async (book, chapter) => {
-    const lastVerse = book.chapters[chapter]
+const selectVersicle = async (book, chapter) => {
+    const lastVersicle = book.chapters[chapter - 1]
 
     return await numericQuestion(
-        'verse',
-        `Selecione o Versículo (1 à ${lastVerse})`,
-        validate(lastVerse))
+        'versicle',
+        `Selecione o Versículo (1 à ${lastVersicle})`,
+        validate(lastVersicle))
 }
 
 module.exports = async () => {
-    const book = await selectBook()
-    const chapter = await selectChapter(book)
-    const verse = await selectVerse(book, chapter)
+    const versicles = []
 
-    return {
-        name: book.alias,
-        chapter,
-        verse
+    do {
+        const book = await selectBook()
+        const chapter = await selectChapter(book)
+        const versicle = await selectVersicle(book, chapter)
+
+        const verse = new Verse(
+            {
+                book: book.alias,
+                chapter,
+                versicle
+            })
+
+        if (!storage.getItem(verse.id)) {
+            storage.setItem(verse.id, verse)
+            versicles.push(verse)
+        }
     }
+    while (await repeat())
+
+    return versicles
 }

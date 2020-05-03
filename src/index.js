@@ -1,22 +1,18 @@
 const program = require('commander')
-const getColor = require('./cli/color')
-const getVerse = require('./cli/verse')
-const repeat = require('./cli/repeat')
+
+const selectColor = require('./cli/color')
+const selectVersicle = require('./cli/versicles')
+const selectVersions = require('./cli/versions')
 
 program
     .version('0.0.1')
     .description('bible.com auto mark')
     .action(async () => {
-        const color = await getColor()
-        const verses = []
+        const color = await selectColor()
+        const versions = await selectVersions()
+        const versicles = await selectVersicle()
 
-        do {
-            const verse = await getVerse()
-            verses.push(verse)
-        }
-        while (await repeat())
-
-        console.log(verses)
+        console.log([color, versions, versicles])
     })
 
 program.parse([], { from: 'user' })

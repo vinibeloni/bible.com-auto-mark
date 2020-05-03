@@ -7,7 +7,7 @@ module.exports = async () => {
         message: 'Deseja marcar mais?'
     }])
 
-    if (anwser.repeat) process.stdout.write('\033c');
+    // if (anwser.repeat) process.stdout.write('\033c');
 
     return anwser.repeat
 }

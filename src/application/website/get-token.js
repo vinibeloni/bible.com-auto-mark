@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer-extra')
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
-const { click, wait, type, waitNewPage, waitUntil } = require("../utils/page")
+const { click, wait, type, waitNewPage, waitUntil } = require("../../utils/page")
 
 puppeteer.use(StealthPlugin())
 
