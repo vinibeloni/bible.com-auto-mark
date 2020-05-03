@@ -1,5 +1,5 @@
 const { LocalStorage } = require('node-localstorage')
-const localStorage = new LocalStorage('./.versicles')
+const localStorage = new LocalStorage('./.data')
 
 const getItem = key => {
     const value = localStorage.getItem(key)

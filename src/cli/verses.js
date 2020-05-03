@@ -2,7 +2,7 @@ const { prompt, registerPrompt } = require('inquirer')
 const Verse = require('../domain/verse')
 
 const books = require('../data/books.json')
-const repeat = require('./repeat')
+const repeat = require('../utils/repeat')
 const storage = require('../data/storage')
 
 registerPrompt('search-list', require('inquirer-search-list'));
@@ -14,7 +14,7 @@ const selectBook = async () => {
         type: 'search-list',
         name: 'book',
         message: 'Selecione o livro',
-        choices
+        choices: [...choices, { name: '==Sair==', value: null }]
     }]
 
     const answer = await prompt(questions)
@@ -54,26 +54,19 @@ const selectVersicle = async (book, chapter) => {
 }
 
 module.exports = async () => {
-    const versicles = []
-
-    do {
+    return await repeat(async breakLoop => {
         const book = await selectBook()
+
+        if (!book) return breakLoop()
+
         const chapter = await selectChapter(book)
         const versicle = await selectVersicle(book, chapter)
 
-        const verse = new Verse(
-            {
-                book: book.alias,
-                chapter,
-                versicle
-            })
+        const verse = new Verse(book.alias, chapter, versicle)
 
-        if (!storage.getItem(verse.id)) {
-            storage.setItem(verse.id, verse)
-            versicles.push(verse)
-        }
-    }
-    while (await repeat())
+        if (storage.getItem(verse.id)) return
 
-    return versicles
+        storage.setItem(verse.id, verse)
+        return verse
+    })
 }

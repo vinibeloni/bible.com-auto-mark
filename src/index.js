@@ -1,8 +1,11 @@
 const program = require('commander')
 
 const selectColor = require('./cli/color')
-const selectVersicle = require('./cli/versicles')
 const selectVersions = require('./cli/versions')
+const selectVerses = require('./cli/verses')
+const selectTags = require('./cli/tags')
+const getUser = require('./cli/auth')
+const saveVerses = require('./application')
 
 program
     .version('0.0.1')
@@ -10,9 +13,11 @@ program
     .action(async () => {
         const color = await selectColor()
         const versions = await selectVersions()
-        const versicles = await selectVersicle()
+        const verses = await selectVerses()
+        const tags = await selectTags()
+        const user = await getUser()
 
-        console.log([color, versions, versicles])
+        await saveVerses(verses, color, tags, versions, user)
     })
 
 program.parse([], { from: 'user' })

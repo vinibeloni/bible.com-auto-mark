@@ -15,6 +15,7 @@
     "inquirer": "^7.1.0",
     "inquirer-search-list": "^1.2.6",
     "node-localstorage": "^2.1.6",
+    "puppeteer": "^3.0.2",
     "puppeteer-extra": "^3.1.9",
     "puppeteer-extra-plugin-stealth": "^2.4.9"
   },
